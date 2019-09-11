@@ -3,7 +3,7 @@
 ## Working Directory
 
     -   Area where all of our files and directories are living all the time.
-    -   Use 'git init' to initialize git in the current working directory.
+    -   Use 'git init' to initialize git in the current directory.
 
 ## Staging Area
 
@@ -14,3 +14,11 @@
 
     -   Where all our snapshots are stored.
     -   Use 'git commit -m <"message">' to add the changes in the staging area to the git repository. As a convencion use a present tense verbe as the very first word of the message followed by a short description.
+
+## Status
+
+    -   Use 'git status' to check the current stat of the repository.
+
+## History
+
+    -   Use 'git log' to see all the changes committed to the repository.
