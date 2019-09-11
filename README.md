@@ -22,3 +22,15 @@
 ## History
 
     -   Use 'git log' to see all the changes committed to the repository.
+
+## Adding all files and folders in a directory
+
+    -   Use 'git add -A' to add all the files and folders in the current directory.
+
+## Addin multiple files of a certain file type
+
+    -   Use 'git add *.<file type>' to add all the files of the given file type to the staging area.
+
+## Removing files
+
+## Ignoring files
