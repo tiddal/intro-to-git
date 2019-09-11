@@ -27,7 +27,7 @@
 
     -   Use 'git add -A' to add all the files and folders in the current directory.
 
-## Addin multiple files of a certain file type
+## Adding multiple files of a certain file type
 
     -   Use 'git add *.<file type>' to add all the files of the given file type to the staging area.
 
@@ -38,3 +38,19 @@
 ## Ignoring files
 
     -   Create a '.gitignore' file and list all the files and directories to be ignored.
+
+## List all branches
+
+    -   Use 'git branch' to see all of the branches in the current repository.
+
+## Adding branches
+
+    -   Use 'git checkout -b <new_branch_name>' to create a new branch.
+
+## Changing branches
+
+    -   Use 'git checkout <branch_name>' to switch to that branch.
+
+## Merging branches
+
+## Removing branches
