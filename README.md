@@ -53,4 +53,8 @@
 
 ## Merging branches
 
+    -   Use 'git merge <branch_name>' to merge the given brach with the current one.
+
 ## Removing branches
+
+    -   Use 'git branch -d <branch_name>' to remove a branch.
