@@ -1,13 +1,16 @@
-# GIT BREAKDOWN
+# Git Breakdown
 
 ## Working Directory
 
     -   Area where all of our files and directories are living all the time.
+    -   Use 'git init' to initialize git in the current working directory.
 
 ## Staging Area
 
     -   Files and directories that we explicitly add to the staging area.
+    -   Use 'git add <filename>' to add files, changes or directories from the working directory to the staging area.
 
 ## Git Repository
 
     -   Where all our snapshots are stored.
+    -   Use 'git commit -m <"message">' to add the changes in the staging area to the git repository. As a convencion use a present tense verbe as the very first word of the message followed by a short description.
