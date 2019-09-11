@@ -8,7 +8,7 @@
 ## Staging Area
 
     -   Files and directories that we explicitly add to the staging area.
-    -   Use 'git add <filename>' to add files, changes or directories from the working directory to the staging area.
+    -   Use 'git add <file>' to add files, changes or directories from the working directory to the staging area.
 
 ## Git Repository
 
@@ -33,4 +33,8 @@
 
 ## Removing files
 
+    -   Use 'git reset HEAD <file>' to remove a file from the staging area.
+
 ## Ignoring files
+
+    -   Create a '.gitignore' file and list all the files and directories to be ignored.
