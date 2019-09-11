@@ -58,3 +58,11 @@
 ## Removing branches
 
     -   Use 'git branch -d <branch_name>' to remove a branch.
+
+## Link to github
+
+    -   Use 'git remote add origin <repo_url>' to link the current repository to the given repository on github.
+
+## Upload to github
+
+    -   Use 'git push -u origin master' to upload the current repository to the linked github repository
