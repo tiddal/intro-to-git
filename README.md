@@ -66,7 +66,3 @@
 ## Upload to github
 
     -   Use 'git push -u origin master' to upload the current repository to the linked github repository
-
-## Test
-
-    - test again
